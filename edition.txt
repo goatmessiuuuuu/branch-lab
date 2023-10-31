@@ -3,7 +3,5 @@ second edition
 third edition
 issue resolved
 Hotfix team's solution
-<<<<<<< HEAD
 New function added
-=======
->>>>>>> 70cba0d91a50ac0af678ec7a36070b3c213422d7
+Team upgraded
